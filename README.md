@@ -1,2 +1,2 @@
 # Car-Price
-car price prediction
+car price prediction guided project
